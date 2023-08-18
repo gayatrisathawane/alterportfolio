@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading-description {
+    font-family: Poppins,sans-serif;
+    font-size: 150%;
+    letter-spacing: 1.3px;
+    line-height: 1.5;
+    word-spacing: 1.5;
+}
+.img{
+    transition: 2s;
+}
+.img:hover{
+    transform: rotatey(360deg);
+}
+
+.social-icon{
+    font-size: 50px;
+}
+.social-icons:hover{
+    border-radius: 10px;
+
+}
+.social-icon:hover{
+    background-color: rgb(90, 93, 93);
+    border: 2px solid rgb(71, 230, 235);
+    cursor: pointer;
+
+}
+.techlogo{
+    height: 60px;
+    margin: 12px;
+}
+.cardimg {
+    width: 60px;
+    height: 60px;
+    
+    background-color: rgb(252, 245, 237);
+    border-radius: 50%;
+ padding:10px;
+    border: 2px solid rgb(13, 5, 5);
+    margin-top: 10px;
+}
+.htmlimg{
+    border:2px dashed #ff6600;
+}
+.cssimg{
+    border:2px dashed #4a8efc;
+}
+.jsimg{
+    border:2px dashed #fbe81b;
+}
+.bootstrap{
+    border:2px dashed #8126f8;
+}
+.cimg{
+    border:2px dashed #317af8;
+
+}
+.cppimg{
+    border:2px dashed #032c73;
+
+}
+.javaimg{
+    border:2px dashed #a8c5f7;
+}
+.python{
+    border:2px dashed #1b8fd3;
+}
+.git{
+    border:2px dashed #ff472f;
+}
+.github{
+    border:2px dashed #131212;
+}
+.htmlimg:hover{
+    border:2px solid rgb(199, 130, 4) ;
+   }
+.cssimg:hover{
+    border:2px solid rgb(101, 148, 249) ;
+   }
+   .jsimg:hover{
+    border:2px solid rgb(238, 215, 44) ;
+   }
+   .bootstrap:hover{
+    border:2px solid #8126f8;
+}
+.cimg:hover{
+    border:2px solid #317af8;
+
+}
+.cppimg:hover{
+    border:2px solid #032c73;
+
+}
+.javaimg:hover{
+    border:2px solid #a8c5f7;
+}
+.python:hover{
+    border:2px solid #1b8fd3;
+}
+.git:hover{
+    border:2px solid #ff472f;
+}
+.github:hover{
+    border:2px solid #131212;
+}
